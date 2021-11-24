@@ -1,7 +1,7 @@
 ## About me! 💬
 
 - <strong>Name:</strong> Mirna Gama
-- <strong>Age:</strong> 21 
+- <strong>Age:</strong> 22 
 - <strong>Pronouns:</strong> She/Her
 - <strong>Lives in:</strong> Recife, PE 🌴 
 
@@ -16,6 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ##### Frameworks:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
