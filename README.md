@@ -1,7 +1,7 @@
 ## About me! 💬
 
 - <strong>Name:</strong> Mirna Gama
-- <strong>Age:</strong> 22 
+- <strong>Age:</strong> 23 
 - <strong>Pronouns:</strong> She/Her
 - <strong>Lives in:</strong> Recife, PE 🌴 
 
